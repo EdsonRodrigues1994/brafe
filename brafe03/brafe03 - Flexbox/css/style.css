@@ -115,12 +115,6 @@ a {
   background-position: 0 calc(-24px * 5);
 }
 
-@media (min-width: 740px) and (max-width: 980px) {
-}
-
-@media (max-width: 739px) {
-}
-
 /* Produtos */
 
 .produtos {
@@ -195,12 +189,6 @@ a {
   font-weight: bold;
   width: 70px;
   display: inline-block;
-}
-
-@media (min-width: 740px) and (max-width: 980px) {
-}
-
-@media (max-width: 739px) {
 }
 
 /*Footer*/
